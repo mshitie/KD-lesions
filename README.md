@@ -45,4 +45,4 @@ year = {2022},
 issn = {0010-4825}
 }
 ```
-[![Open In Colab](https://github.com/mshitie/KD-lesions/blob/main/Teacher%26Student.ipynb)
+
